@@ -100,8 +100,8 @@ Most developers stop at the screen. I go all the way to the hardware.
 
 If you're building something that involves code, circuits, or both — let's talk.
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-0d9488?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-your@email.com-0d9488?style=flat-square&logo=gmail&logoColor=white)](mailto:techbase.it@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/J3M09)
 
 ---
 
