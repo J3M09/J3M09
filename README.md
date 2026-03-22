@@ -6,86 +6,89 @@
 
 <br/>
 
-[![Open to Collaborate](https://img.shields.io/badge/💼_Open_to-Freelance_%26_Collabs-0d9488?style=for-the-badge)](mailto:techbase.it@gmail.com)
-[![IoT](https://img.shields.io/badge/🔌_Building-IoT_%2B_Web_Projects-1e40af?style=for-the-badge)](#)
-[![Firmware](https://img.shields.io/badge/⚙️_Firmware-ESP32_%2F_Arduino-ea580c?style=for-the-badge)](#)
+[![Open to Collaborate](https://img.shields.io/badge/Open_to-Freelance_%26_Collabs-0d9488?style=for-the-badge)](mailto:techbase.it@gmail.com)
+[![IoT](https://img.shields.io/badge/Building-IoT_%2B_Web_Projects-1e40af?style=for-the-badge)](#)
+[![Firmware](https://img.shields.io/badge/Firmware-ESP32_%2F_Arduino-ea580c?style=for-the-badge)](#)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+## About Me
 
 > I'm a developer who lives at the intersection of **software and hardware** — equally comfortable writing a PHP backend, designing a WinForms desktop app, flashing firmware onto an ESP32, and soldering the circuit it talks to.
 >
 > *Most developers stop at the screen. I go all the way to the hardware.*
 
-```text
-🔌  IoT Systems       ████████████████████  End-to-end: firmware → web
-🖥️  Desktop Apps      ███████████████░░░░░  C# · WinForms · MAUI · WPF
-🌐  Web Development   ████████████████░░░░  PHP · React · Node.js
-🤖  Local AI Tooling  ████████░░░░░░░░░░░░  Ollama · Offline-first
-🛠️  Hardware          ████████████░░░░░░░░  Schematic · Soldering · CAD
-```
-
 <br/>
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💬 Languages
+### Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🌐 Web & Frontend
+### Web & Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
-### 🖥️ Desktop & Frameworks
+### Desktop & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### ⚙️ Embedded & Hardware
+### Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003153?style=flat-square&logo=freertos&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003153?style=flat-square)
 
-### 🗄️ Database
+### Machine Learning
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 <br/>
 
-## 🏗️ What I Build
+## What I Build
 
 | Layer | Stack | What I Do |
 |:---:|:---|:---|
-| ⚙️ **Firmware** | ESP32 · Arduino · FreeRTOS | Async event-driven code, WebSocket comms, non-blocking `millis()` patterns |
-| 🖥️ **Desktop** | C# · WinForms · MAUI · WPF | Clean architecture, async patterns, real-time device integration |
-| 🌐 **Web** | PHP · React · Node.js · Tailwind | REST backends, PDO database access, admin dashboards |
-| 🗄️ **Database** | MySQL · MariaDB · SQLite | Schema design, query optimization, embedded DB |
-| 🔗 **Integration** | WebSocket · Serial · REST | Bridging microcontrollers to web/desktop — no cloud required |
+| **Firmware** | ESP32 · Arduino · FreeRTOS | Async event-driven code, WebSocket comms, non-blocking `millis()` patterns |
+| **Desktop** | C# · WinForms · MAUI · WPF | Clean architecture, async patterns, real-time device integration |
+| **Web** | PHP · Laravel · CodeIgniter · React · Tailwind | REST backends, PDO database access, admin dashboards |
+| **ML** | ML.NET · YOLO · Python | Object detection, model integration into desktop and web apps |
+| **Database** | MySQL · MariaDB · SQLite | Schema design, query optimization, embedded DB |
+| **Integration** | WebSocket · Serial · REST | Bridging microcontrollers to web/desktop — no cloud required |
 
 <br/>
 
-## 🛠️ Software & Tools
+## Software & Tools
 
-### IDEs & Dev
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_2019--2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+### IDEs & Development
+![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ### Database & Reporting
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_Browser-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SAP Crystal Reports](https://img.shields.io/badge/SAP_Crystal_Reports-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 ### CAD & Electronics
@@ -93,14 +96,22 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-BD0000?style=flat-square)
 ![EEZ Studio](https://img.shields.io/badge/EEZ_Studio-2D3748?style=flat-square)
 
-### Creative & Virtualization
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+### Creative & Media
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-FE0F3B?style=flat-square&logo=wondershare&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)
+
+### Local Dev Environment
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
+
+### Virtualization
+![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 <br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
